@@ -13,21 +13,30 @@ font-family: 'Poppins', sans-serif;
     border-left:5px solid darkslateblue;
 }
 
-    
-section{
-    display: flex;
+    .flexible-container{
+    display:flex ;
+    margin-bottom: 10%;
+    margin-left: 2%;
 }
 .half-width{
     width: 50%;
-    padding-left: 10%;
+    padding-left: 5%;
 }
 .half-width img{
-width:80%;
+width:80%
 }
-.link-button {background-image: linear-gradient(rgb(56, 243, 56) rgb(248, 164, 9);
+.link-button {background-image: linear-gradient(red green);
  padding: 10px 20px}
-.red-color{color: peru;
 
-}
+.red-color{color:rgb(202, 90, 10);}
+.text{text-align: center;
+margin-bottom: 5%;}
 
- 
+ .half-width2 img{
+        width: 30%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    
+    
+

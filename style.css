@@ -26,7 +26,8 @@ font-family: 'Poppins', sans-serif;
 width:80%
 }
 .link-button {background-image: linear-gradient(red green);
- padding: 10px 20px}
+ padding: 10px 20px;
+}
 
 .red-color{color:rgb(202, 90, 10);}
 .text{text-align: center;
@@ -37,6 +38,44 @@ margin-bottom: 5%;}
         margin-left: 2%;
         margin-right: 2%;
     }
-    
-    
+ .half-width2{
+     width:30%;
+margin-left:5% ;
+margin-right: 5%;
+box-shadow: 10px 10px 40px gray;
+padding-left: 15px;
+border-radius: 15px;
+ }   
+ .red{background-color: rgb(143, 98, 98);}
+   .pink{background-color: skyblue;}
+.blue{background-color:pink ;}
+       
+   .half-width-3 img{
+       width: 80%;
+       margin-right: 5%;
+       margin-left: 5%;
+   }
+   .half-width-3{
+       width:60%;
+       margin-left: 5%;
+       margin-right: 5%;
+   }
+   .half-width-4 img{width: 80%;
+margin-left :10%;
+margin-right: 5%;}
+.half-width-4{
+    width: 60%;
+    margin-left: 10%;
+    margin-right:5%;
+}
+footer{text-align: center;
+    background-color:black;
+    color: white;
 
+}body{
+    font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+}
+.orange{ 
+    color:rgb(202, 90, 10);
+}

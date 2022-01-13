@@ -19,17 +19,25 @@ font-family: 'Poppins', sans-serif;
     margin-left: 2%;
 }
 .half-width{
-    width: 50%;
+    width: 70%
     padding-left: 5%;
 }
 .half-width img{
-width:80%
+width:100%
 }
-.link-button {background-image: linear-gradient(red green);
+.half-width text{
+    width: 100%;
+}
+.link-button {
+text-decoration: none;
+background-color:coral;
  padding: 10px 20px;
-}
+border-radius: 5px;
+font-weight: 700;}
 
-.red-color{color:rgb(202, 90, 10);}
+
+
+.red-color{color:rgb(248, 175, 124);}
 .text{text-align: center;
 margin-bottom: 5%;}
 
@@ -51,26 +59,33 @@ border-radius: 15px;
 .blue{background-color:pink ;}
        
    .half-width-3 img{
-       width: 80%;
+       width:80%;
        margin-right: 5%;
        margin-left: 5%;
-   }
+  padding-right: 5%; }
    .half-width-3{
        width:60%;
        margin-left: 5%;
        margin-right: 5%;
+       padding-right: 5%;
+   } .half-width-3 text:{
+       width: 100%;
+    
+
    }
    .half-width-4 img{width: 80%;
-margin-left :10%;
-margin-right: 5%;}
+margin-left :5%;
+margin-right: 5%;
+padding-left: 5%;}
 .half-width-4{
     width: 60%;
-    margin-left: 10%;
+    margin-left: 5%;
     margin-right:5%;
 }
 footer{text-align: center;
     background-color:black;
     color: white;
+    margin-bottom: 0;
 
 }body{
     font-family: 'Playfair Display', serif;
